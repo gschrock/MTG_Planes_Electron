@@ -1,0 +1,89 @@
+.banner {
+  background-color: grey;
+}
+
+.titleContainer {
+  text-align: center;
+}
+
+.title {
+  font-family: 'Bangers', cursive;
+  font-size: 80px;
+  color: black;
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+.manaImg {
+  height: 55px;
+  width: 275px;
+  margin-left: 20px;
+}
+
+.dice {
+  background-color: grey;
+}
+
+.navButtons {
+  margin-left: 170px;
+}
+
+.planeBtns {
+  width: 650px;
+  display: inline;
+  text-align: center;
+}
+
+.planeCtrl {
+  display: inline-block;
+}
+
+.planeImg {
+  border-radius: 30px;
+}
+
+.schemeContainer {
+  margin: 0px 50px;
+}
+
+.schemeImg {
+  border-radius: 20px;
+  margin: 0px 50px;
+}
+
+.schemeBtns {
+  margin: 0px 65px;
+}
+
+.diceRoll {
+  vertical-align:top;
+  margin-top: 5px;
+  display: inline-flex;
+}
+
+.rollBtn {
+  height: 36px;
+}
+
+.rollCount {
+  text-align: center;
+}
+
+.rollParent {
+  margin-top: -5px;
+}
+
+.diceImg {
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  padding: 0px 10px 0px 10px;
+  background-color: white;
+}
+
+.cardBackground {
+  text-align: center;
+}
+
+.legal {
+  font-size: 10px;
+}

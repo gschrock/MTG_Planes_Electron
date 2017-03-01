@@ -1,0 +1,512 @@
+[
+  {
+    "name":"Akoum",
+    "type":"Plane",
+    "plane":"Zendikar",
+    "location":"assets/planes/akoum.jpg"
+  },
+  {
+    "name":"Aretopolis",
+    "type":"Plane",
+    "plane":"Kephalai",
+    "location":"assets/planes/aretopolis.jpg"
+  },
+  {
+    "name":"Astral Arena",
+    "type":"Plane",
+    "plane":"Kolbahan",
+    "location":"assets/planes/astral-arena.jpg"
+  },
+  {
+    "name":"Bloodhill Bastion",
+    "type":"Plane",
+    "plane":"Equilor",
+    "location":"assets/planes/bloodhill-bastion.jpg"
+  },
+  {
+    "name":"Edge of Malacol",
+    "type":"Plane",
+    "plane":"Belenon",
+    "location":"assets/planes/edge-of-malacol.jpg"
+  },
+  {
+    "name":"Furnace Layer",
+    "type":"Plane",
+    "plane":"New Phyrexia",
+    "location":"assets/planes/furnace-layer.jpg"
+  },
+  {
+    "name":"Gavony",
+    "type":"Plane",
+    "plane":"Innistrad",
+    "location":"assets/planes/gavony.jpg"
+  },
+  {
+    "name":"Glen Elendra",
+    "type":"Plane",
+    "plane":"Lorwyn",
+    "location":"assets/planes/glen-elendra.jpg"
+  },
+  {
+    "name":"Grand Ossuary",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/grand-ossuary.jpg"
+  },
+  {
+    "name":"Grove of the Dreampods",
+    "type":"Plane",
+    "plane":"Fabacin",
+    "location":"assets/planes/grove-of-the-dreampods.jpg"
+  },
+  {
+    "name":"Hedron Fields of Agadeem",
+    "type":"Plane",
+    "plane":"Zendikar",
+    "location":"assets/planes/hedron-fields-of-agadeem.jpg"
+  },
+  {
+    "name":"Jund",
+    "type":"Plane",
+    "plane":"Alara",
+    "location":"assets/planes/jund.jpg"
+  },
+  {
+    "name":"Kessig",
+    "type":"Plane",
+    "plane":"Innistrad",
+    "location":"assets/planes/kessig.jpg"
+  },
+  {
+    "name":"Kharasha Foothills",
+    "type":"Plane",
+    "plane":"Mongseng",
+    "location":"assets/planes/kharasha-foothills.jpg"
+  },
+  {
+    "name":"Kilnspire District",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/kilnspire-district.jpg"
+  },
+  {
+    "name":"Lair of the Ashen Idol",
+    "type":"Plane",
+    "plane":"Azgol",
+    "location":"assets/planes/lair-of-the-ashen-idol.jpg"
+  },
+  {
+    "name":"Mount Keralia",
+    "type":"Plane",
+    "plane":"Regatha",
+    "location":"assets/planes/mount-keralia.jpg"
+  },
+  {
+    "name":"Nephalia",
+    "type":"Plane",
+    "plane":"Innistrad",
+    "location":"assets/planes/nephalia.jpg"
+  },
+  {
+    "name":"Norn's Dominion",
+    "type":"Plane",
+    "plane":"New Phyrexia",
+    "location":"assets/planes/norns-dominion.jpg"
+  },
+  {
+    "name":"Onakke Catacomb",
+    "type":"Plane",
+    "plane":"Shandalar",
+    "location":"assets/planes/onakke-catacomb.jpg"
+  },
+  {
+    "name":"Orochi Colony",
+    "type":"Plane",
+    "plane":"Kamigawa",
+    "location":"assets/planes/orochi-colony.jpg"
+  },
+  {
+    "name":"Orzhova",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/orzhova.jpg"
+  },
+  {
+    "name":"Prahv",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/prahv.jpg"
+  },
+  {
+    "name":"Quicksilver Sea",
+    "type":"Plane",
+    "plane":"Mirrodin",
+    "location":"assets/planes/quicksilver-sea.jpg"
+  },
+  {
+    "name":"Selesnya Loft ",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/selesnya-loft-gardens.jpg"
+  },
+  {
+    "name":"Stensia",
+    "type":"Plane",
+    "plane":"Innistrad",
+    "location":"assets/planes/stensia.jpg"
+  },
+  {
+    "name":"Takenuma",
+    "type":"Plane",
+    "plane":"Kamigawa",
+    "location":"assets/planes/takenuma.jpg"
+  },
+  {
+    "name":"Talon Gates",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/talon-gates.jpg"
+  },
+  {
+    "name":"Trail of the Mage-Rings",
+    "type":"Plane",
+    "plane":"Vryn",
+    "location":"assets/planes/trail-of-the-mage-rings.jpg"
+  },
+  {
+    "name":"Truga Jungle",
+    "type":"Plane",
+    "plane":"Ergamon",
+    "location":"assets/planes/truga-jungle.jpg"
+  },
+  {
+    "name":"Windriddle Palaces",
+    "type":"Plane",
+    "plane":"Belenon",
+    "location":"assets/planes/windriddle-palaces.jpg"
+  },
+  {
+    "name":"The Zephyr Maze",
+    "type":"Plane",
+    "plane":"Kyneth",
+    "location":"assets/planes/the-zephyr-maze.jpg"
+  },
+  {
+    "name":"Stairs to Infinity",
+    "type":"Plane",
+    "plane":"Xerex",
+    "location":"assets/planes/stairs-to-infinity.jpg"
+  },
+  {
+    "name":"Academy at Tolaria West",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/academy-at-tolaria-west.jpg"
+  },
+  {
+    "name":"The Æther Flues",
+    "type":"Plane",
+    "plane":"Iquantana",
+    "location":"assets/planes/the-aether-flues.jpg"
+  },
+  {
+    "name":"Agyrem",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/agyrem.jpg"
+  },
+  {
+    "name":"Bant",
+    "type":"Plane",
+    "plane":"Alara",
+    "location":"assets/planes/bant.jpg"
+  },
+  {
+    "name":"Cliffside Market",
+    "type":"Plane",
+    "plane":"Mercadia",
+    "location":"assets/planes/cliffside-market.jpg"
+  },
+  {
+    "name":"The Dark Barony",
+    "type":"Plane",
+    "plane":"Ulgrotha",
+    "location":"assets/planes/the-dark-barony.jpg"
+  },
+  {
+    "name":"Eloren Wilds",
+    "type":"Plane",
+    "plane":"Shanadalar",
+    "location":"assets/planes/eloren-wilds.jpg"
+  },
+  {
+    "name":"The Eon Fog",
+    "type":"Plane",
+    "plane":"Equilor",
+    "location":"assets/planes/the-eon-fog.jpg"
+  },
+  {
+    "name":"Feeding Grounds",
+    "type":"Plane",
+    "plane":"Muraganda",
+    "location":"assets/planes/feeding-grounds.jpg"
+  },
+  {
+    "name":"Fields of Summer",
+    "type":"Plane",
+    "plane":"Moag",
+    "location":"assets/planes/fields-of-summer.jpg"
+  },
+  {
+    "name":"The Fourth Sphere",
+    "type":"Plane",
+    "plane":"Phyrexia",
+    "location":"assets/planes/the-fourth-sphere.jpg"
+  },
+  {
+    "name":"Glimmervoid Basin",
+    "type":"Plane",
+    "plane":"Mirrodin",
+    "location":"assets/planes/glimmervoid-basin.jpg"
+  },
+  {
+    "name":"Goldmeadow",
+    "type":"Plane",
+    "plane":"Lorwyn",
+    "location":"assets/planes/goldmeadow.jpg"
+  },
+  {
+    "name":"The Great Forest",
+    "type":"Plane",
+    "plane":"Lorwyn",
+    "location":"assets/planes/the-great-forest.jpg"
+  },
+  {
+    "name":"Grixis",
+    "type":"Plane",
+    "plane":"Alara",
+    "location":"assets/planes/grixis.jpg"
+  },
+  {
+    "name":"The Hippodrome",
+    "type":"Plane",
+    "plane":"Segovia",
+    "location":"assets/planes/the-hippodrome.jpg"
+  },
+  {
+    "name":"Immersturm",
+    "type":"Plane",
+    "plane":"Valla",
+    "location":"assets/planes/immersturm.jpg"
+  },
+  {
+    "name":"Isle of Vesuva",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/isle-of-vesuva.jpg"
+  },
+  {
+    "name":"Izzet Steam Maze",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/izzet-steam-maze.jpg"
+  },
+  {
+    "name":"Krosa",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/krosa.jpg"
+  },
+  {
+    "name":"Lethe Lake",
+    "type":"Plane",
+    "plane":"Arkhos",
+    "location":"assets/planes/lethe-lake.jpg"
+  },
+  {
+    "name":"Llanowar",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/llanowar.jpg"
+  },
+  {
+    "name":"The Maelstrom",
+    "type":"Plane",
+    "plane":"Alara",
+    "location":"assets/planes/the-maelstrom.jpg"
+  },
+  {
+    "name":"Minamo",
+    "type":"Plane",
+    "plane":"Kamigawa",
+    "location":"assets/planes/minamo.jpg"
+  },
+  {
+    "name":"Murasa",
+    "type":"Plane",
+    "plane":"Zendikar",
+    "location":"assets/planes/murasa.jpg"
+  },
+  {
+    "name":"Naar Isle",
+    "type":"Plane",
+    "plane":"Wildfire",
+    "location":"assets/planes/naar-isle.jpg"
+  },
+  {
+    "name":"Naya",
+    "type":"Plane",
+    "plane":"Alara",
+    "location":"assets/planes/naya.jpg"
+  },
+  {
+    "name":"Otaria",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/otaria.jpg"
+  },
+  {
+    "name":"Panopticon",
+    "type":"Plane",
+    "plane":"Mirrodin",
+    "location":"assets/planes/panopticon.jpg"
+  },
+  {
+    "name":"Pools of Becoming",
+    "type":"Plane",
+    "plane":"Bolas's Meditation Realm",
+    "location":"assets/planes/pools-of-becoming.jpg"
+  },
+  {
+    "name":"Raven's Run",
+    "type":"Plane",
+    "plane":"Shadowmoor",
+    "location":"assets/planes/ravens-run.jpg"
+  },
+  {
+    "name":"Sanctum of Serra",
+    "type":"Plane",
+    "plane":"Serra's Realm",
+    "location":"assets/planes/sanctum-of-serra.jpg"
+  },
+  {
+    "name":"Sea of Sand",
+    "type":"Plane",
+    "plane":"Rabiah",
+    "location":"assets/planes/sea-of-sand.jpg"
+  },
+  {
+    "name":"Shiv",
+    "type":"Plane",
+    "plane":"Dominaria",
+    "location":"assets/planes/shiv.jpg"
+  },
+  {
+    "name":"Skybreen",
+    "type":"Plane",
+    "plane":"Kaldheim",
+    "location":"assets/planes/skybreen.jpg"
+  },
+  {
+    "name":"Sokenzan",
+    "type":"Plane",
+    "plane":"Kamigawa",
+    "location":"assets/planes/sokenzan.jpg"
+  },
+  {
+    "name":"Stronghold Furnace",
+    "type":"Plane",
+    "plane":"Rath",
+    "location":"assets/planes/stronghold-furnace.jpg"
+  },
+  {
+    "name":"Turri Island",
+    "type":"Plane",
+    "plane":"Ir",
+    "location":"assets/planes/turri-island.jpg"
+  },
+  {
+    "name":"Undercity Reaches",
+    "type":"Plane",
+    "plane":"Ravnica",
+    "location":"assets/planes/undercity-reaches.jpg"
+  },
+  {
+    "name":"Velis Vel",
+    "type":"Plane",
+    "plane":"Lorwyn",
+    "location":"assets/planes/velis-vel.jpg"
+  },
+  {
+    "name":"Tazeem",
+    "type":"Plane",
+    "plane":"Zendikar",
+    "location":"assets/planes/tazeem-release-promo.jpg"
+  },
+  {
+    "name":"Celestine Reef",
+    "type":"Plane",
+    "plane":"Luvion",
+    "location":"assets/planes/celestine-reef-pre-release-promo.jpg"
+  },
+  {
+    "name":"Bant",
+    "type":"Plane",
+    "plane":"Alara",
+    "location":"assets/planes/bant.jpg"
+  },
+  {
+    "name":"Horizon Boughs",
+    "type":"Plane",
+    "plane":"Pyrulea",
+    "location":"assets/planes/horizon-boughs-gateway-promo.jpg"
+  },
+  {
+    "name":"Mirrored Depths",
+    "type":"Plane",
+    "plane":"Karsus",
+    "location":"assets/planes/mirrored-depths.jpg"
+  },
+  {
+    "name":"Tember City",
+    "type":"Plane",
+    "plane":"Kinshala",
+    "location":"assets/planes/tember-city.jpg"
+  },
+  {
+    "name":"Chaotic Aether",
+    "type":"Phenomenon",
+    "plane":"N/A",
+    "location":"assets/planes/chaotic-aether.jpg"
+  },
+  {
+    "name":"Morphic Tide",
+    "type":"Phenomenon",
+    "plane":"N/A",
+    "location":"assets/planes/morphic-tide.jpg"
+  },
+  {
+    "name":"Mutual Epiphany",
+    "type":"Phenomenon",
+    "plane":"N/A",
+    "location":"assets/planes/mutual-epiphany.jpg"
+  },
+  {
+    "name":"Planewide Disaster",
+    "type":"Phenomenon",
+    "plane":"N/A",
+    "location":"assets/planes/planewide-disaster.jpg"
+  },
+  {
+    "name":"Reality Shaping",
+    "type":"Phenomenon",
+    "plane":"N/A",
+    "location":"assets/planes/reality-shaping.jpg"
+  },
+  {
+    "name":"Time Distortion",
+    "type":"Phenomenon",
+    "plane":"N/A",
+    "location":"assets/planes/time-distortion.jpg"
+  }
+]
